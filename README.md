@@ -1,5 +1,5 @@
 
-                                                                                        ATM Simulation System
+                                                       ATM Simulation System
 Table of Contents
 Introduction
 Features
